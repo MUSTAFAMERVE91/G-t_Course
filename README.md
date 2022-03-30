@@ -1,2 +1,2 @@
-# G-t_Course
-for kodluyoruz gıt course
+# Git_Course
+for kodluyoruz git course
